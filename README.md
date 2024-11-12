@@ -7,17 +7,17 @@ menggunakan bahasa pemrograman JAVA
 
 ![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/2.PNG?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/3.PNG?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/4.PNG?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/5.PNG?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/6.PNG?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/7.PNG?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/8.PNG?raw=true)
 
-![alt text](?raw=true)
+![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/9.PNG?raw=true)
 
