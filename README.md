@@ -21,7 +21,7 @@ Gambar dibawah ini menampilkan jika memilih menu ke 3 yaitu jika ada anggota yan
 Gambar dibawah ini menampilkan jika memilih menu ke 4 yaitu jika ada anggota yang mau mengenbalikan buku,jika nomor anggota dan ISBN buku benar maka proses pengembalian buku akan berhasil namun jika nomor anggota salah atau tidak ada maka output yang dihasilkan adalah "Anggota tidak ditemukan." sama halnya jika ISBN buku yang dimasukan salah maka output yang akan muncul adalah "Buku tidak ditemukan atau ISBN tidak valid."
 ![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/6.PNG?raw=true)
 
-Gambar dibawah ini menampilkan jika memilih menu ke 5 yaitu menampilkan seluruh daftar buku yang masih tersedia di perpustakaan jika buku sudah tidak ada maka daftar akan kosong atau menampikan output "Tidak ada buku yang tersedia." 
+Gambar dibawah ini menampilkan jika memilih menu ke 5 yaitu menampilkan seluruh daftar buku yang masih tersedia di perpustakaan jika buku sudah tidak ada maka daftar akan kosong atau menampikan output "Tidak ada buku yang tersedia."
 ![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/7.PNG?raw=true)
 
 Gambar dibawah ini menampilkan jika memilih menu ke 6 yaitu menampilkan seluruh daftar anggota yang tersedia di perpustakaan jika tidak ada anggota maka daftar akan kosong atau menampikan output "Anggota tidak ditemukan." 
