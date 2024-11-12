@@ -7,10 +7,10 @@ menggunakan bahasa pemrograman JAVA
 gambar dibawah ini menampilkan menu yang disajikan ketika program dijalankan
 ![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/1.PNG?raw=true)
 
-Gambar dibawah ini menampilkan jika memilih menu ke 1 yaitu menambahkan daftar buku dan buku yang ditambahkan berbentuk fisik 
+Gambar dibawah ini menampilkan jika memilih menu ke 1 yaitu menambahkan daftar buku dan buku yang ditambahkan berbentuk fisik
 ![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/2.PNG?raw=true)
 
-Gambar dibawah ini menampilkan jika memilih menu ke 1 yaitu menambahkan daftar buku dan buku yang ditambahkan berbentuk digital 
+Gambar dibawah ini menampilkan jika memilih menu ke 1 yaitu menambahkan daftar buku dan buku yang ditambahkan berbentuk digital
 ![alt text](https://github.com/raffyakhsan/UTS-Pengembangan-Aplikasi-Manajemen-Perpustakaan-Menggunakan-Konsep-OOP-32602300016/blob/main/Foto%20Interaksi%20Dengan%20program/3.PNG?raw=true)
 
 Gambar dibawah ini menampilkan jika memilih menu ke 2 yaitu menambahkan daftar anggota perpustakaan
