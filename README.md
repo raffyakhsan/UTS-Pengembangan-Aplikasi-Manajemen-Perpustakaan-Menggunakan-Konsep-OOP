@@ -2,6 +2,7 @@
 Ujian Tengah Semester dengan membuat aplikasi sederhana dengan tema 
 "Pengembangan Aplikasi Manajemen Perpustakaan Menggunakan Konsep OOP" 
 menggunakan bahasa pemrograman JAVA 
+berikut merupakan gambaran interaksi dengan program
 
 
 ✦ Gambar dibawah ini menampilkan menu yang disajikan ketika program dijalankan
