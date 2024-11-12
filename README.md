@@ -1,4 +1,4 @@
-# UTS Pemrograman Beriorentasi Objek 
+# UTS Pemrograman Berorientasi Objek 
 Ujian Tengah Semester dengan membuat aplikasi sederhana dengan tema 
 "Pengembangan Aplikasi Manajemen Perpustakaan Menggunakan Konsep OOP" 
 menggunakan bahasa pemrograman JAVA 
